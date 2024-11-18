@@ -13,7 +13,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/logu810/ShopEz.git
+   git clone https://github.com/Promodh13/ecommerce.git
 
 2. **Navigate to the project directory:**
     ```bash
